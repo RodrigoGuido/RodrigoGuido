@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do RodrigoGuido
+## Bem-vindo(a) ao perfil do RodrigoGuido.
 
 <div>
   <a href="https://github.com/RodrigoGuido">
