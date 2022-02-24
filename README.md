@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do RodrigoGuido.
 
-###Atualmento estudando e aperfeiçoandotecnologias atuais e amplamenteutilizadas como Html, Css, Javascript ,Git e GitHub no curso DevQuest. Estouaprendendo com praticas diárias eprojetos, pois desejo iniciar comoDesenvolvedor Front End e aprender eprogredir como programador.
+#Atualmento estudando e aperfeiçoando tecnologias atuais e amplamente utilizadas como Html, Css, Javascript, Git e GitHub no curso DevQuest. Estou aprendendo com praticas diárias e projetos, pois desejo iniciar como Desenvolvedor Front End e aprender e progredir como programador.
 
 <div>
   <a href="https://github.com/RodrigoGuido">
