@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Gostou do meu perfiu, pode entrar em contato pelas redes abaixo!
+  ### Gostou do meu perfil, pode entrar em contato pelas redes abaixo!
  
 <div> 
   <a href = "mailto:rodrigoguido@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
